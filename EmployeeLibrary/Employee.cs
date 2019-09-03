@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EmployeeLibrary {
+namespace EmployeeLibrary { 
     public class Employee {
         public string Name { get; set; }
         public string Job { get; set; }
